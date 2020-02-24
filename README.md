@@ -7,3 +7,4 @@ Node + React + MongoDB
 ToDo
 
 * Blog Highlights
+* Latest blog on top
